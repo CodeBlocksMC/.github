@@ -19,17 +19,16 @@ Whether you love competing or building, CodeBlocksMC will have something for you
 Here’s a glimpse of what you can expect at launch:
 
 ### 🏎️ PixelRacers
-Race through pixel-art inspired tracks, dodge obstacles, and use power-ups to claim victory!  
-A fast-paced, skill-based racing minigame unlike anything you’ve seen before in Minecraft.
+... [text musst du einfügen julian]
 
 ### 👾 AmongCreeper
-A suspenseful social deduction game — can you find the Creeper among your friends before it’s too late?
+... [text musst du einfügen julian]
 
 ### 🏳️ Capture The Flag
-The timeless classic! Work together, defend your base, and steal the enemy’s flag to score points.
+... [text musst du einfügen julian]
 
 ### ⚔️ PvPFFA
-Jump straight into the action! Fight players in an open arena, sharpen your skills, and climb the leaderboards.
+... [text musst du einfügen julian]
 
 …and that’s just the beginning. More unique modes are in development and will be revealed soon!
 
