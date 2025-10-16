@@ -37,7 +37,7 @@ Here’s a glimpse of what you can expect at launch:
 ## 🧩 Features
 
 - 💡 **Custom-coded minigames** made by our in-house developers  
-- 🌐 **Multilingual support** (German 🇩🇪 & English 🇬🇧 at launch)  
+- 🌐 **Multilingual support** (German & English at launch)  
 - 🛠️ **Optimized performance** for smooth and lag-free gameplay  
 - 🎨 **Beautiful maps** designed by talented community builders  
 - 👥 **Friendly and active staff team** ready to assist you
