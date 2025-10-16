@@ -19,16 +19,22 @@ Whether you love competing or building, CodeBlocksMC will have something for you
 Here’s a glimpse of what you can expect at launch:
 
 ### 🏎️ PixelRacers
-... [text musst du einfügen julian]
+Grab a car and hit the road! Who will reign supreme — in Grand Prix or in battle mode?
 
-### 👾 AmongCreeper
-... [text musst du einfügen julian]
+### 👾 Among Creepers
+Find out who's the impostor and survive! Wait, is that even a cat?!
 
 ### 🏳️ Capture The Flag
-... [text musst du einfügen julian]
+Grab the flag of the other team and protect your own!
 
 ### ⚔️ PvPFFA
-... [text musst du einfügen julian]
+Abilities, OverPower mode & changing combat system – the pure Chaos.
+
+### 🤺 GunGame
+Upgrade your equipment with every level! But be careful, other players will try to stop you.
+
+### 🧟 Murder Mystery
+Who's the illager? Find it out before you get killed.
 
 …and that’s just the beginning. More unique modes are in development and will be revealed soon!
 
@@ -70,7 +76,7 @@ Our network runs on:
 - **[PaperMC](https://papermc.io)** High-performance Minecraft server software
 - **[Java 24](https://adoptium.net/temurin/releases)** To run our Network
 - **[CloudNET](https://cloudnetservice.eu)** One of the best CloudSystems out there
-- **[MariaDB](https://https://mariadb.org)** for the easiest Database Management
+- **[MariaDB](https://mariadb.org)** for the easiest Database Management
 
 ---
 
